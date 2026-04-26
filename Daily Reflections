@@ -1,0 +1,33 @@
+#---STANDARD FORMAT---#
+
+#---WRITE 3 to 5 LINES DAILY---#
+
+# DAY-XY
+# WHAT CLICKED?
+# WHAT IS STILL FUZZY?
+# WHAT WILL I REVISIT?
+
+# DAY-01
+# WHAT CLICKED?
+  # print is function
+  # anything inside a print function with (" ") will be printed (argument will be passed)
+  # Inside a function, we can pass any number of arguments: string/arithmetic/blank/etc..
+  # print() - with blank pushes the next set of codes to executed in next line of run window
+  # String with "" qoutes can be assigned to a variable and can be printed just by writing variable inside a print function without mentioning any qoutes
+  # strings can be added with concatentaion with + symbol. (no limits)
+  # input function can be used to consider a user input, user will enter a input directly in the run window and press enter.
+  # Escape Character: \n, \t, \, """."""
+  # Select Ctrl+?: it will automatically comment everything
+  # 'r' before the string will removes all the confusion with escape characters but
+  # Using \\ is recommended wherever necessary than using 'r' - as freedom of what to select and not select is still available. 
+# WHAT IS STILL FUZZY?
+  # Using '\', i am not not understanding how many spaces will that consider. I felt using this, is creating too many spaces. 
+  # What is CPython?
+  # What is GIL?
+  # Compile vs Interpret
+  # Open a REPL (python -i) and playing for 20mins
+  # virtual environment (venv)
+# WHAT WILL I REVISIT?
+  # interpreter
+  # virtual environment
+
